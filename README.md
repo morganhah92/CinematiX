@@ -35,8 +35,7 @@ Use the location coordinates to fetch data from the API.
 ### Write Unit Tests
 Use JUnit and Mockito to write unit tests.
 
-![Alt Text](images/home.jpeg)
-![Alt Text](images/details.jpeg)
+![Alt Text](images/home.jpeg)![Alt Text](images/details.jpeg)
 ![Alt Text](images/auth.jpeg)
 
 

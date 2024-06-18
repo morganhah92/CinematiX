@@ -27,6 +27,14 @@ Create UI screens with Jetpack Compose.
 ### Implement Navigation
 Use Jetpack Navigation to navigate between different screens.
 
+## Firebase Authentication
+
+### Set Up Firebase Authentication
+Configure Firebase for login and sign-up functionality.
+
+### Implement Login and Sign-Up
+Create composable functions for login and sign-up screens and integrate them with Firebase authentication.
+
 ## Fetch Data
 Use the location coordinates to fetch data from the API.
 
